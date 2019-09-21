@@ -1,0 +1,9 @@
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\bin\Debug\netcoreapp2.2\CrossGaming.Core.deps.json
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\bin\Debug\netcoreapp2.2\CrossGaming.Core.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.AssemblyInfoInputs.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.AssemblyInfo.cs
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\bin\Debug\netcoreapp2.2\CrossGaming.Core.pdb
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.Core\obj\Debug\netcoreapp2.2\CrossGaming.Core.pdb

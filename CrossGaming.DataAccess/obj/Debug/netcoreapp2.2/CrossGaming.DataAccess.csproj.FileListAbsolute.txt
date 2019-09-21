@@ -1,0 +1,16 @@
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.DataAccess.deps.json
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.DataAccess.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.AssemblyInfo.cs
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.DataAccess.runtimeconfig.json
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.DataAccess.runtimeconfig.dev.json
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.DataAccess.pdb
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.Entity.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.Entity.pdb
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.csproj.CopyComplete
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\obj\Debug\netcoreapp2.2\CrossGaming.DataAccess.pdb
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.Core.dll
+C:\Users\Kadir\source\repos\CrossGaming\CrossGaming.DataAccess\bin\Debug\netcoreapp2.2\CrossGaming.Core.pdb

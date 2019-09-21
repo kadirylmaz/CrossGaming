@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrossGaming.DataAccess\CrossGaming.DataAccess.csproj" />
+    <ProjectReference Include="..\CrossGaming.Entity\CrossGaming.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
